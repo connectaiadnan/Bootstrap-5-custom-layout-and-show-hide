@@ -1,0 +1,35 @@
+/* common start */
+/* common end */
+
+/* header start here */
+.header, .hero, .body, .bar, .footer {
+  background-color: #A3E9F8;
+  margin-bottom: 10px;
+}
+.box{
+  margin: 10px 0;
+  min-height: 80px;
+  background-color: #FFE599;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+/* header end here */
+
+/* hero start here */
+.red{
+  background-color: #A4A0E6;
+}
+/* hero end here */
+
+/* body start here */
+.five{
+  background-color: #D9FFF8;
+}
+/* body end here */
+
+/* ber starts here */
+/* ber end here */
+
+/* footer starts here */
+/* footer end here */
